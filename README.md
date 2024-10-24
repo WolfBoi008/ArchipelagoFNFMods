@@ -18,3 +18,9 @@ Current mod that are compatible with this "randomizer" are:
 - Indie Cross by MORØ
 - Vs Impostor V4 by Clowfoe
 - Vs UniqueGeese by UniqueGeese
+
+## To Add + Test
+- Hypno's Lullaby by Banbuds, SimplyCrispy, Gibz, and ScorchVx - 17 Songs, 4 Progressives
+- Ourple Guy by Headdzo, Blackberri, Cold_Vee, and kiwiquest - 25 Songs, 4 Progressives
+- RetroSpecter by RetroSpecter - 21 Songs, 4 or 5 Progressives
+- FNF Weekly by n1ffirg - 63(?) Songs, 11(?) Progressives
